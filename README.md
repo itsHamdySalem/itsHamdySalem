@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋 I'm Hamdy Mohamed Salem
 
-<!--
-**itsHamdySalem/itsHamdySalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Computer Engineering student at Faculty of Engineering, Cairo University. Passionate about problem-solving and coding, I love taking on challenges and engaging in competitive programming.
 
-Here are some ideas to get you started:
+## 👨‍💻 Coding Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love coding in general and building innovative projects. Always up for new challenges and excited about exploring different technologies.
+
+## 🏆 Competitive Programming
+
+Participate in competitive programming challenges to enhance problem-solving skills and stay sharp in algorithmic thinking.
+
+## 📫 Let's Connect
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/hamdysalem"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:hamdysalem503@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+Feel free to connect and collaborate on exciting projects or just chat about coding! 😊
