@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Hamdy Mohamed Salem
+# Hi there! 👋
 
-I'm a 3rd-year Computer Engineering student at Faculty of Engineering, Cairo University. Passionate about problem-solving and coding, I love taking on challenges and engaging in competitive programming.
+I'm Hamdy Salem, a 3rd-year Computer Engineering student at Faculty of Engineering, Cairo University. Passionate about problem-solving and coding, I love taking on challenges and engaging in competitive programming.
 
 I love coding in general and building innovative projects. Always up for new challenges and excited about exploring different technologies.
 
