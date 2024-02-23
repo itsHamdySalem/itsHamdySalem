@@ -14,4 +14,4 @@ Participate in competitive programming challenges to enhance problem-solving ski
 <a href="mailto:hamdysalem503@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-Feel free to connect and collaborate on exciting projects or just chat about coding! 😊
+Feel free to connect and collaborate on exciting projects or just chat about coding!
